@@ -45,7 +45,7 @@ python3 ModulusTable.py
 
 4. Choose a number 'n', it must be positive, can be a decimal. This number is the multiplication table you want to represent. I chose 2, 'n=2'.
 
-5. This will be the last part, now join the dots. Join the 1st dot to the 1*n=2nd dot. Join the 2nd dot to the 2*n=4th dot. And so on... The 11th dot will be linked wit the 1st one because it's one of the modulus's properties.
+5. This will be the last part, now join the dots. Join the 1st dot to the 1*n=2nd dot. Join the 2nd dot to the 2*n=4th dot. And so on... The 11th dot will be linked with the 1st one because it's one of the modulus's properties.
 
 ![Circle](./examples/joinedCircle.png)
 
