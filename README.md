@@ -32,7 +32,7 @@ pip3 install matplotlib
 
 ![Circle](./examples/circle.png)
 
-2. Choose a modulo (integer), let's call it 'p'. I chose 20, 'p=20'.
+2. Choose a modulus (integer), let's call it 'p'. I chose 20, 'p=20'.
 
 3. Add 'p' dots  on your circle. The distance between 1st and the 2nd dot have to be the same as the distance between the 2nd and 3rd dot, as for the 15th and the 16th... 
 
@@ -40,7 +40,7 @@ pip3 install matplotlib
 
 4. Choose a number 'n', it must be positive, can be a decimal. This number is the multiplication table you want to represent. I chose 2, 'n=2'.
 
-5. This will be the last part, now join the dots. Join the 1st dot to the 1*n=2nd dot. Join the 2nd dot to the 2*n=4th dot. And so on... The 11th dot will be linked wit the 1st one because it's one of the modulo's properties.
+5. This will be the last part, now join the dots. Join the 1st dot to the 1*n=2nd dot. Join the 2nd dot to the 2*n=4th dot. And so on... The 11th dot will be linked wit the 1st one because it's one of the modulus's properties.
 
 ![Circle](./examples/joinedCircle.png)
 
