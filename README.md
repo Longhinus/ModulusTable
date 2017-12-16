@@ -21,6 +21,11 @@ pip3 install matplotlib
  - Python3 3.6.4rc1
  - matplotlib 2.1.0
 
+# Usage
+
+```
+python3 ModulusTable.py
+```
 # Some results
 ![Modulus 200, table of 2](./examples/2.png)
 ![Modulus 200, table of 3](./examples/3.png)
