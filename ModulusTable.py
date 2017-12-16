@@ -2,7 +2,7 @@
 import math as math
 
 def segments(n ,p):
-    for i in range (1, p):
+    for i in range (1, p+1):
         angleActuel = (2*math.pi/p)*i #Starting angle
         coorX = math.cos(angleActuel)
         coorY = math.sin(angleActuel)
