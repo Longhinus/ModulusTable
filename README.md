@@ -46,5 +46,8 @@ pip3 install matplotlib
 
 6. Now it's time to repeat it with a bigger modulus or another table. (*^▽^*)
 
-
 ![Circle](./examples/example.png)
+
+# Example of results, with tables incrementing by 0.02, with 25 tables showing every seconds
+
+[![Video](https://img.youtube.com/vi/-rv1z8zVWBw/0.jpg)](https://www.youtube.com/watch?v=-rv1z8zVWBw)
